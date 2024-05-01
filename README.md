@@ -1,7 +1,7 @@
-- 👋 Hi, I’m James aka @writershootsfilm
+- 👋 Hi, I’m James aka @writershootsfilm on X, Instagram, Mastadon and here.
 - 👀 I’m interested in emacs and writing novels.
 - 🌱 I’m currently learning emacs, Arabic, and how to publish a novel.
-- 💞️ I’m looking to collaborate on any localization or translation for Arabic
+- 💞️ I’m looking to collaborate on any localization or translation for Arabic.
 - 📫 How to reach me: DMs on Instagram work
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "You are the universe reading itself." -- from Minecraft
