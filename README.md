@@ -1,4 +1,5 @@
-- 👋 Hi, I’m James aka @writershootsfilm on X, Instagram, Mastadon and here.
+- 👋 Hi, I’m James aka @writershootsfilm on Instagram, Mastadon and here.
+- ❌ I'm @writershotfilm on X.
 - 👀 I’m interested in emacs and writing novels.
 - 🌱 I’m currently learning emacs, Arabic, and how to publish a novel.
 - 💞️ I’m looking to collaborate on any localization or translation for Arabic.
